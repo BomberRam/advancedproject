@@ -1,0 +1,4 @@
+Version 1.0 - Intial setup
+- Future Updates:
+1: Add Examples Folder.
+2: Include advanced git features
